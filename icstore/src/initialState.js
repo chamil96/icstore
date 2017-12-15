@@ -1,2 +1,6 @@
-import React, { Component } from 'react';
+const initialState = {
+    allProducts: [],
+    selectedProducts: []
+}
 
+export default initialState;
